@@ -1,17 +1,554 @@
 [
   {
-    "title": "naked apron",
-    "description": "only an apron",
-    "category": "enp"
-  },
-  {
-    "title": "sitting on lap",
+    "title": "Caught changing",
     "description": "",
     "category": "enp"
   },
   {
-    "title": "only collar",
-    "description": "just wearing a collar",
+    "title": "Forgot the towel",
+    "description": "stranded at a public shower without a towel",
+    "category": "enp"
+  },
+  {
+    "title": "Hands full",
+    "description": "trying to preserve their modesty while carrying something important",
+    "category": "enp"
+  },
+  {
+    "title": "Overdressed/Underdressed",
+    "description": "caught naked where everyone else is very much overdressed (e.g. fancy party)",
+    "category": "enp"
+  },
+  {
+    "title": "Art pose",
+    "description": "reluctantly agreed to pose for a bunch of art students",
+    "category": "enp"
+  },
+  {
+    "title": "Doorbell",
+    "description": "naked at home but then someone arrives",
+    "category": "enp"
+  },
+  {
+    "title": "Observed",
+    "description": "they are being observed... that is all (also they're naked)",
+    "category": "enp"
+  },
+  {
+    "title": "Shrink ray",
+    "description": "got hit by the shrink ray but their clothes aren't affected",
+    "category": "enp"
+  },
+  {
+    "title": "Kneeling",
+    "description": "just kneeling",
+    "category": "enp"
+  },
+  {
+    "title": "Tiny object",
+    "description": "trying to cover themself with an object that is too small to cover anything",
+    "category": "enp"
+  },
+  {
+    "title": "Photographer",
+    "description": "trying to follow specific pose instructions while trying not to die from embarassment",
+    "category": "enp"
+  },
+  {
+    "title": "Casual interaction",
+    "description": "everyone else is acting normally",
+    "category": "enp"
+  },
+  {
+    "title": "Inspection",
+    "description": "clinical/teasing once over to make them squirm",
+    "category": "enp"
+  },
+  {
+    "title": "Lost a bet",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "One item only",
+    "description": "naked except for one accessory",
+    "category": "enp"
+  },
+  {
+    "title": "Domestic nudity",
+    "description": "attempting to do an ordinary domestic task while naked",
+    "category": "enp"
+  },
+  {
+    "title": "hands off",
+    "description": "told they're not allowed to cover themselves",
+    "category": "enp"
+  },
+  {
+    "title": "Center of attention",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "comfortable/embarrassed",
+    "description": "one is perfectly comfortable while the other is very much not",
+    "category": "enp"
+  },
+  {
+    "title": "Wrong wroom",
+    "description": "walking into a room naked assuming it's empty",
+    "category": "enp"
+  },
+  {
+    "title": "laundry day",
+    "description": "there's literally nothing to wear (bonus: it's a laundromat)",
+    "category": "enp"
+  },
+  {
+    "title": "locked out",
+    "description": "stuck outside the bathroom/bedroom/house without clothes",
+    "category": "enp"
+  },
+  {
+    "title": "strategic furniture",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "under the table",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Behind the curtain",
+    "description": "best (worst) hiding spot in the house",
+    "category": "enp"
+  },
+  {
+    "title": "Stretch",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Dropped something",
+    "description": "now they have to bend down to get it",
+    "category": "enp"
+  },
+  {
+    "title": "Only coat",
+    "description": "technically dressed until someone realizes",
+    "category": "enp"
+  },
+  {
+    "title": "Only apron",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Only socks",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Only glasses",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Only tie",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Only jewelry",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Oversized shirt",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Shirt shrunk in the drier",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Wardrobe malfunction",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "towel betrayal",
+    "description": "towel slips",
+    "category": "enp"
+  },
+  {
+    "title": "Sheet theft (sheft?)",
+    "description": "someone deliberately steals the blanket",
+    "category": "enp"
+  },
+  {
+    "title": "cold air",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "I'm still in here!",
+    "description": "someone walks in while they're still in the tub",
+    "category": "enp"
+  },
+  {
+    "title": "Dressing room",
+    "description": "Someone walks into or pulls open the cubicle curtain while they're still changing",
+    "category": "enp"
+  },
+  {
+    "title": "Locker room shy",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Sauna",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Hot spring",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Public pool",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Beach towel",
+    "description": "trying to change while under a towel",
+    "category": "enp"
+  },
+  {
+    "title": "Changing screen",
+    "description": "screen is much smaller than anticipated",
+    "category": "enp"
+  },
+  {
+    "title": "Measurements",
+    "description": "someone needs their measurements",
+    "category": "enp"
+  },
+  {
+    "title": "Medical examination",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Body paint",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Covered in writing",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Post-it modesty",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Bandaid modesty",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Ribbons",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "full frontal",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Don't look!",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Eyes up here",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Eyes DEFINITELY up there",
+    "description": "the other person is trying VERY hard to be respectful",
+    "category": "enp"
+  },
+  {
+    "title": "Smirk",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Blushing everywhere",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "face hidden",
+    "description": "covering their face instead of everything else",
+    "category": "enp"
+  },
+  {
+    "title": "Strategic fingers",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Pillow shield",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Book shield",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "But first, coffee.",
+    "description": "Naked and embarassed but coffee takes priority ",
+    "category": "enp"
+  },
+  {
+    "title": "Tea service",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Naked diner",
+    "description": "For some reason, they make their employees work naked.",
+    "category": "enp"
+  },
+  {
+    "title": "Breakfast",
+    "description": "Just casually having breakfast naked",
+    "category": "enp"
+  },
+  {
+    "title": "Washing dishes",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Folding clothes",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Ironing clothes",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Working from hoe",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Video call",
+    "description": "they think nobody can tell they are naked",
+    "category": "enp"
+  },
+  {
+    "title": "Emperor's new clothes",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Reading naked",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Door delivery",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Hello neighbor",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Fire alarm",
+    "description": "you have to evacuate at the worst possible time",
+    "category": "enp"
+  },
+  {
+    "title": "Crawling into the wrong bed",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Sleepwalking",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Sleepy and naked",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Couch nap",
+    "description": "blanket gets removed",
+    "category": "enp"
+  },
+  {
+    "title": "In someone's lap",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Weird angle",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Carried",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Piggy back",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Cornered",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Balcony",
+    "description": "nobody can see me here",
+    "category": "enp"
+  },
+  {
+    "title": "Rooftop",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Among flowers",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Camping",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Clothes thief",
+    "description": "someone steals their clothes as a joke",
+    "category": "enp"
+  },
+  {
+    "title": "gift bow",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Mud",
+    "description": "got attacked by the mud wizard",
+    "category": "enp"
+  },
+  {
+    "title": "Body paint",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Body glitter",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Ribbons",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Name tag",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Price tag",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Bell colar",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Collar only",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Handcuffs",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Hands behind head",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Presented",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Spread out",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Trying to act normal",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Reluctant exhibitionist",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Cuyddling naked",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Falling asleep",
+    "description": "",
+    "category": "enp"
+  },
+  {
+    "title": "Aftercare nudity",
+    "description": "",
     "category": "enp"
   }
+  
+  
 ]
