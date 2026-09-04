@@ -44,7 +44,7 @@ main {
 
 .prompt p {
   margin: 0.5rem 0 0;
-  color: #71717a;
+  color: #928189;
   font-size: 0.875rem;
 }
 
@@ -53,7 +53,7 @@ button {
   padding: 0 1rem;
   border: 0;
   border-radius: 0.375rem;
-  background: #18181b;
+  background: #000000;
   color: #ffffff;
   cursor: pointer;
   font: inherit;
@@ -62,11 +62,11 @@ button {
 }
 
 button:hover {
-  background: #27272a;
+  background: #42393c;
 }
 
 button:focus-visible {
-  outline: 2px solid #6366f1;
+  outline: 2px solid #cd60c2;
   outline-offset: 3px;
 }
 
